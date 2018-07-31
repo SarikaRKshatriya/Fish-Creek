@@ -1,0 +1,142 @@
+﻿/*This is fishcreek.css*/
+
+/* background color */
+body
+{
+	background-color:#6699ff;
+}
+/* h1 color,shadow,height and image*/
+h1
+{
+	line-height:200%;
+	background-color: #000066;
+	background-image:url("bigfish.gif");
+	background-origin: content-box;
+	background-position:center;
+	background-repeat:no-repeat;
+	text-shadow: 1px 2px #dedede;
+	text-color: #ffffff;
+	background-size: 490px 50px;
+	
+}
+/* bold and 1.1em nav */
+nav
+{
+	font-weight:bold;
+	font-size:1.1em;
+	
+/* italic and .7em*/
+}
+footer
+{
+	font-size:0.7em;
+	font-style:italic;
+	text-align:left;
+	padding-left:370px;
+}
+/* Use of HTML 5*/
+section
+{
+   	text-align: left;
+   	padding-left:360px;
+   
+}
+/* use of HTML%*/
+article
+{
+	padding-left:40px;
+   	text-align: left;
+   	color: #460da5;
+}
+/* paragraph color*/
+p
+{
+	margin:0;
+	text-align:left;
+	padding-left:360px;
+	color: #460da5;
+}
+/* 80% width and center using wrapper id */
+#wrapper
+{
+	width:80%;
+	text-align:center;
+	margin:auto;
+	background-color:white;
+	text-color:#d5e3ff;
+	font-family:Verdana,Arial,Sans-serif;
+}
+li
+{ 
+	margin:0;
+	text-align:left;
+	margin-left:360px;
+}
+table
+{
+	width: 30em;
+	float: left;
+	padding: 20px;
+	text-align: left;
+	margin-left: 60px;
+
+}
+#submitbutton
+{
+	margin-left: 500px;
+	font-weight: bold;
+}
+label
+{
+	float:left;
+	display: block;
+	text-align: right;
+	width: 300px;
+	padding-right: 10px;
+}
+input
+{
+	display: block;
+}
+textarea
+{
+	display: block;	
+}
+select
+{
+	margin-right: 550px;
+}
+
+
+#leftside
+{
+	width: 200px;
+	height: 400px;
+	float: left;
+}
+/* unvisited link*/
+#leftside a:link
+{ 
+	text-decoration: none; 
+	color: #2a2ac0;
+}
+/* visited link*/
+#leftside a:visited
+{
+	text-decoration: none;
+	color: #037aba​; 
+}
+/* heading for page 1,page2,page3*/
+#heading,#heading2,#heading3
+{
+	text-shadow: 1px 2px #aaa;
+	color: #003f6e;
+}
+/* heading for page4,page5*/
+#subhead,#contacthead
+{
+	padding-left:360px;
+	margin:0;
+	text-align:left;
+	text-shadow: 1px 2px #2a2ac0;
+}

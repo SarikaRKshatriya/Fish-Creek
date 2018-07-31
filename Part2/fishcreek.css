@@ -1,0 +1,42 @@
+/*fishcreek.css*/
+/* Sarika Kshatriya */
+
+h1
+{
+	line-height:200%;
+	color: #003366;
+}
+nav
+{
+	font-weight:bold;
+	font-size:1.1em;
+}
+footer
+{
+	font-size:.70em;
+	font-style:italic;
+	text-align:left;
+	padding-left:370px;
+}
+p
+{
+	margin:0;
+	text-align:left;
+	padding-left:360px;
+}
+#wrapper
+{
+	width:80%;
+	text-align:center;
+	margin:auto;
+	background-color:#6699ff;
+	text-color:#d5e3ff;
+	font-family:"Verdana";
+}
+li
+{ 
+	margin:0;
+	text-align:left;
+	margin-left:360px;
+}
+
