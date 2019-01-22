@@ -5,4 +5,4 @@ Animal Hospital
  
  CodeIgniter part is in different repository
  
-[alt text](https://github.com/SarikaRKshatriya/Fish-Creek/blob/master/FishCreek1.png)
+[Index Page](https://github.com/SarikaRKshatriya/Fish-Creek/blob/master/FishCreek1.png)
